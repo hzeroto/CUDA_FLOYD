@@ -6,9 +6,9 @@
 
 `test.cpp`: serial algorithm for floyd
 
-**`floyd.cu`: **parallel algorithm for floyd, **main**
-
 `make.cpp`: randomly generated data
+
+**`floyd.cu:`** parallel algorithm for floyd, **main**
 
 ## Running time
 
