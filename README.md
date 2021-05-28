@@ -8,7 +8,7 @@
 
 `make.cpp`: randomly generated data
 
-**`floyd.cu:`** parallel algorithm for floyd, **main**
+**`floyd.cu`**： parallel algorithm for floyd, **main**
 
 ## Running time
 
